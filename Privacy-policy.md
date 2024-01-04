@@ -1,26 +1,26 @@
-**Privacy Policy for Muzix Discord Music Bot**
+**Privacy Policy for Woofer Discord Music Bot**
 
 Last updated: 01/12/23
 
 **Introduction**
 
-• Thank you for choosing Muzix, the Discord music bot. This Privacy Policy outlines how Muzix collects, uses, and protects your information when you use our bot.
+• Thank you for choosing Woofer, the Discord music bot. This Privacy Policy outlines how Woofer collects, uses, and protects your information when you use our bot.
 
 **Information Collected**
 
-• Server Information: Muzix may collect server-related data, such as server IDs, channel IDs, and user IDs, solely for the purpose of providing music playback functionality within Discord servers.
+• Server Information: Woofer may collect server-related data, such as server IDs, channel IDs, and user IDs, solely for the purpose of providing music playback functionality within Discord servers.
 
 • Usage Data: We may collect anonymous usage data to improve the bot's performance and user experience.
 
 **How We Use Your Information**
 
-• Providing Services: Muzix uses collected data to deliver music playback services within Discord servers.
+• Providing Services: Woofer uses collected data to deliver music playback services within Discord servers.
 
-• Improving Services: Anonymous usage data helps us analyze and enhance the performance and features of Muzix.
+• Improving Services: Anonymous usage data helps us analyze and enhance the performance and features of Woofer.
 
 **Data Sharing and Security**
 
-• Third-Party Services: Muzix does not share your information with third parties, except as required to provide the music playback services.
+• Third-Party Services: Woofer does not share your information with third parties, except as required to provide the music playback services.
 
 • Security: We employ industry-standard measures to safeguard your data, but no method of transmission over the internet or electronic storage is 100% secure.
 
@@ -37,4 +37,4 @@ Last updated: 01/12/23
 **Contact Information**
 
 • For any questions or concerns regarding this Privacy Policy, please contact us at [gamingdrekkz@gmail.com].
-By using Muzix, you agree to the terms outlined in this Privacy Policy
+By using Woofer, you agree to the terms outlined in this Privacy Policy
