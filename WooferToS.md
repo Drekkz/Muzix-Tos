@@ -2,7 +2,7 @@
 
 __Introduction__
 
-By using Muzix, you agree to comply with and be bound by the terms and conditions outlined in this document.
+By using , you agree to comply with and be bound by the terms and conditions outlined in this document.
 
 
 **User Agreement**
