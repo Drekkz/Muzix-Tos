@@ -12,6 +12,10 @@ Last updated: 01/12/23
 
 • Usage Data: We may collect anonymous usage data to improve the bot's performance and user experience.
 
+• When bot is added or left from any server we get the logs 
+
+• When bot create and destroy player it send the player vc name, channel ID. 
+
 **How We Use Your Information**
 
 • Providing Services: Woofer uses collected data to deliver music playback services within Discord servers.
